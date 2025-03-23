@@ -12,7 +12,7 @@ public class WordScrambleGame {
     }
 
     public static void main(String[] args) {
-        System.out.println("Welcome to the Scramble Game!");
+        System.out.println("Welcome to the Word Scramble Game!");
         System.out.println("There are 5 categories you can choose from:");
         System.out.println("1. Fruits\n2. Vegetables\n3. Jobs\n4. Countries\n5. Animals");
     }
