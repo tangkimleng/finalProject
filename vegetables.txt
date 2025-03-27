@@ -1,0 +1,37 @@
+carrot
+broccoli
+tomato
+potato
+onion
+cabbage
+spinach
+cucumber
+pumpkin
+beetroot
+garlic
+ginger
+lettuce
+cauliflower
+peas
+eggplant
+radish
+zucchini
+asparagus
+celery
+turnip
+bell pepper
+mushroom
+chili
+corn
+leek
+sweet potato
+bitter melon
+okra
+brussels sprouts
+
+
+
+
+
+
+
